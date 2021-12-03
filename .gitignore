@@ -1,0 +1,4 @@
+#just write these lines in .gitignore
+LINE chatbot
+staticfiles
+__pycache__
