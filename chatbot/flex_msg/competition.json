@@ -1,0 +1,147 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "url": "https://news.idea-show.com/wp-content/uploads/2021/10/2021%E6%A2%85%E7%AB%B9%E9%BB%91%E5%AE%A2%E6%9D%BE.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "梅竹黑客松",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "LINE組 第一名",
+                  "wrap": true,
+                  "weight": "bold",
+                  "size": "lg",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "使用LINE BOT實作清交二手拍通知小幫手，讓使用者能夠訂閱關鍵字，當FB上的清交二手大拍賣社團中有包含此關鍵字的貼文發布時，就會傳送此貼文給使用者。",
+              "wrap": true,
+              "size": "xs",
+              "margin": "md",
+              "flex": 0
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "primary",
+              "action": {
+                "type": "uri",
+                "label": "Official Account",
+                "uri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=266ymlgc"
+              }
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "More Info",
+                "uri": "https://660b-140-113-231-235.ngrok.io/meichu_hackathon/"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "url": "https://d.line-scdn.net/stf/linecorp/zh-hant/pr/202109011.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LINE FRESH",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評審特別獎",
+                  "wrap": true,
+                  "weight": "bold",
+                  "size": "lg",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "利用LINE官方帳號結合虎尾商圈的商家和景點的資訊及導覽，加上集點抽抽樂的遊戲、AI景點辨識及紀念照產生器，打造能幫助虎尾商圈進行數位轉型的企劃。",
+              "wrap": true,
+              "size": "xs",
+              "margin": "md",
+              "flex": 0
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "flex": 2,
+              "style": "primary",
+              "action": {
+                "type": "uri",
+                "label": "Official Account",
+                "uri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=830clnhd"
+              }
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "More Info",
+                "uri": "https://660b-140-113-231-235.ngrok.io/LINE_FRESH/"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }

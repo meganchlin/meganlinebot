@@ -1,0 +1,115 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "💭Soft skill",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 時間管理",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 快速的學習能力",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 組織能力",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "baseline",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "color": "#FFFFFF",
+              "size": "sm",
+              "flex": 1,
+              "text": "SPACE"
+            },
+            {
+              "type": "text",
+              "text": "• 規劃與排定優先順序",
+              "wrap": true,
+              "color": "#666666",
+              "size": "sm",
+              "flex": 5,
+              "weight": "bold"
+            }
+          ]
+        }
+      ]
+    }
+  }

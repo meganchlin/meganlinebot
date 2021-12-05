@@ -1,0 +1,288 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Club and Activities",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 交大資工2020系露營 生活組",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 交大資工2020迎新宿營 生活長",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 交大資工2020系學會 公關組",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "-負責協助舉辦系上各大活動例如耶誕舞會、企業參訪、資工之夜",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "-作為贊助廠商與學校聯絡的窗口",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 交大資工2021系露營 生活長",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 陽明交大2021系學會 公關長",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "-負責協助舉辦系上各大活動例如耶誕舞會、企業參訪、資工之夜",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "-作為贊助廠商與學校聯絡的窗口",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "-負責系學會對外聯繫的相關事宜",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

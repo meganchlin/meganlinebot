@@ -1,0 +1,51 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "💻Technical skill",
+                "text": "Technical skill"
+              },
+              "color": "#000000"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "📋Office skill",
+                "text": "Office skill"
+              },
+              "color": "#000000"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "💭Soft skill",
+                "text": "Soft skill"
+              },
+              "color": "#000000"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "🌎Language skill",
+                "text": "Language skill"
+              },
+              "color": "#000000"
+            }
+          ]
+        }
+      }
+    ]
+  }

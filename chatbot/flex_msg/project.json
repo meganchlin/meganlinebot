@@ -1,0 +1,169 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "url": "https://cdn.lynda.com/course/548706/548706-637286205910916704-16x9.jpg"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": []
+            },
+            {
+              "type": "text",
+              "text": "資料庫project",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "- 作為組長激發組員以及想法的統整",
+                  "wrap": true,
+                  "weight": "bold",
+                  "size": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "我們針對美國各個county的種族比例、平均收入和貧窮的比率，教育程度、失業率及各區域的犯罪率去做分析。通過犯罪率和其他四項數據去找出具有潛在風險的城市，並設計⼀個網⾴可以讓⺠眾輸⼊⾃⼰的旅遊路線，並查看⾃⼰的旅遊路線的危險程度 。",
+              "wrap": true,
+              "size": "xs",
+              "margin": "md",
+              "flex": 0
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "More Info",
+                "uri": "https://660b-140-113-231-235.ngrok.io/database/"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "url": "https://miro.medium.com/max/750/1*8s0lrSAam91n_NItpIYtkw.png"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "人工智慧project",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "- 作為組長提出題目的發想，並激發組員以及做想法的統整",
+                  "wrap": true,
+                  "weight": "bold",
+                  "size": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "使用CNN模型做肺部ct影像辨識，判斷是否感染COVID-19。",
+              "wrap": true,
+              "size": "xs",
+              "margin": "md",
+              "flex": 0
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "More Info",
+                "uri": "https://660b-140-113-231-235.ngrok.io/machine_learning/"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "url": "https://phd.ieor.columbia.edu/sites/default/files/styles/cu_crop/public/content/images/shutterstock_543311869.jpg?itok=wD1FpB2N"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": []
+            },
+            {
+              "type": "text",
+              "text": "財務工程project",
+              "wrap": true,
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "給定許多選擇權和期貨的報價，找出所有可能的套利機會。",
+              "wrap": true,
+              "size": "xs",
+              "margin": "md",
+              "flex": 0
+            }
+          ]
+        }
+      }
+    ]
+  }

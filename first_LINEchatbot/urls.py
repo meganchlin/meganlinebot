@@ -15,8 +15,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.conf.urls import url
+
+from chatbot.views import RESUME
+from chatbot.views import meichu_hackathon
+from chatbot.views import LINE_FRESH
+from chatbot.views import about_me
+from chatbot.views import database
+from chatbot.views import machine_learning
  
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('chatbot/', include('chatbot.urls')) #包含應用程式的網址
+    path('chatbot/', include('chatbot.urls')), #包含應用程式的網址
+    url(r'^RESUME/$', RESUME),
+    url(r'^meichu_hackathon/$', meichu_hackathon),
+    url(r'^LINE_FRESH/$', LINE_FRESH),
+    url(r'^about_me/$', about_me),
+    url(r'^database/$', database),
+    url(r'^machine_learning/$', machine_learning),
 ]

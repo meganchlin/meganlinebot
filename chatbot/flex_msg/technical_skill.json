@@ -1,0 +1,201 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "💻Technical skill",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• C/C++",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• SQL Database management ",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• Python (sklearn, tensorflow)",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• Verilog",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• Linux作業系統",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• Docker",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

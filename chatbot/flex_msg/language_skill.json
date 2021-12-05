@@ -1,0 +1,46 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "🌎Language skill",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• Fluent English",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

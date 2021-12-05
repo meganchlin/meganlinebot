@@ -10,9 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
-LINE_CHANNEL_ACCESS_TOKEN = 'e2ZkTTmYQT9UHOCQ1pzmQoqhQFzY9hujQLIKihB9v0G54abuDun7lG5NKF5FVG3FuY6sBBh8SH7iXvT/IYNla7olOItYOTaBP/4DaCXE5TGrsX2rbp367oDgfONHau+/kpdPNrRlYrAD4OzrYg4+uAdB04t89/1O/w1cDnyilFU='
- 
-LINE_CHANNEL_SECRET = '2a7330da2e5f74f901d46971a45bcd3a'
+LINE_CHANNEL_ACCESS_TOKEN = 's4O56Z5NI7re6pKNqwa/AnR6pDgw3rLvH2IaXxoIwQF9Zc0LeL47LLSNpMlKyBNBGl3Gov1A12DtvHmAqoIQreHVrgrIVwCxHzz8bV3Dq40U5ghLF0dJB23GVZGrvJ3/ueJxehjN9Gl0L9yAkLhcYAdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_SECRET = '737890c4393bb51abaf39514488436f1'
+LIFFID_FULL = ''
 
 from pathlib import Path
 import os
@@ -32,7 +32,8 @@ SECRET_KEY = 'django-insecure-1$ywizuzug$9!xr#m*^6n1rl3h6x=4c4!8^_miaxvw-g)yl3^6
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'meganlinebot.herokuapp.com'  #允許的網域名稱
+    #'meganlinebot.herokuapp.com'  #允許的網域名稱
+    '660b-140-113-231-235.ngrok.io'
 ]
 
 
@@ -64,7 +65,7 @@ ROOT_URLCONF = 'first_LINEchatbot.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates').replace('\\', '/')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -137,3 +138,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
+
+MEDIA_ROOT =  os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
