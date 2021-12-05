@@ -61,7 +61,7 @@
               "action": {
                 "type": "uri",
                 "label": "More Info",
-                "uri": "https://660b-140-113-231-235.ngrok.io/database/"
+                "uri": "https://meganlinebot.herokuapp.com/database/"
               }
             }
           ]
@@ -122,7 +122,7 @@
               "action": {
                 "type": "uri",
                 "label": "More Info",
-                "uri": "https://660b-140-113-231-235.ngrok.io/machine_learning/"
+                "uri": "https://meganlinebot.herokuapp.com/machine_learning/"
               }
             }
           ]

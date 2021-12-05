@@ -65,7 +65,7 @@
               "action": {
                 "type": "uri",
                 "label": "More Info",
-                "uri": "https://660b-140-113-231-235.ngrok.io/meichu_hackathon/"
+                "uri": "https://meganlinebot.herokuapp.com/meichu_hackathon/"
               }
             }
           ]
@@ -137,7 +137,7 @@
               "action": {
                 "type": "uri",
                 "label": "More Info",
-                "uri": "https://660b-140-113-231-235.ngrok.io/LINE_FRESH/"
+                "uri": "https://meganlinebot.herokuapp.com/LINE_FRESH/"
               }
             }
           ]
