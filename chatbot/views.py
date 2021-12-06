@@ -59,11 +59,11 @@ def callback(request):
                 elif (event.message.text == 'about me'):
                     FlexMessage = json.load(open(os.path.join(BASE_DIR, 'flex_msg/about_me.json'),'r',encoding='utf-8'))
                     line_bot_api.reply_message(event.reply_token, FlexSendMessage('profile',FlexMessage))
-                else :
-                    line_bot_api.reply_message(  # 回復傳入的訊息文字
-                    event.reply_token,
-                    TextSendMessage(text=event.message.text)
-                )
+                #else :
+                #    line_bot_api.reply_message(  # 回復傳入的訊息文字
+                #    event.reply_token,
+                #    TextSendMessage(text=event.message.text)
+                #)
         return HttpResponse()
     else:
         return HttpResponseBadRequest()
