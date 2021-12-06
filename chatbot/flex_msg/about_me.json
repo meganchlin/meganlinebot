@@ -1,0 +1,178 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "林佳萱",
+          "weight": "bold",
+          "size": "xl",
+          "align": "center"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "OBJECTIVE",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold",
+                  "decoration": "underline"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "成為LINE TECH FRESH的實習生",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "SUMMARY",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold",
+                  "decoration": "underline"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "對coding有熱忱、具備良好的邏輯思考能力，並擁有快速的學習能力",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學歷",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold",
+                  "decoration": "underline"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "國立陽明交通大學 資訊工程學系 三年級",
+                  "size": "sm",
+                  "wrap": true,
+                  "flex": 5,
+                  "color": "#666666",
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "SPACE",
+                  "color": "#FFFFFF"
+                },
+                {
+                  "type": "text",
+                  "text": "預計畢業時間 : 2023年6月",
+                  "size": "sm",
+                  "wrap": true,
+                  "flex": 5,
+                  "color": "#666666",
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Cumulative GPA : 3.93/4.3",
+                  "size": "sm",
+                  "wrap": true,
+                  "flex": 5,
+                  "color": "#666666",
+                  "weight": "bold",
+                  "align": "end"
+                },
+                {
+                  "type": "text",
+                  "text": "Major GPA : 4.05/4.3",
+                  "size": "sm",
+                  "wrap": true,
+                  "flex": 5,
+                  "color": "#666666",
+                  "weight": "bold",
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
