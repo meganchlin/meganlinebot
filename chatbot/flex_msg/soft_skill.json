@@ -84,29 +84,29 @@
                   "weight": "bold"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "box",
-          "layout": "baseline",
-          "spacing": "sm",
-          "contents": [
-            {
-              "type": "text",
-              "color": "#FFFFFF",
-              "size": "sm",
-              "flex": 1,
-              "text": "SPACE"
             },
             {
-              "type": "text",
-              "text": "• 規劃與排定優先順序",
-              "wrap": true,
-              "color": "#666666",
-              "size": "sm",
-              "flex": 5,
-              "weight": "bold"
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "color": "#FFFFFF",
+                  "size": "sm",
+                  "flex": 1,
+                  "text": "SPACE"
+                },
+                {
+                  "type": "text",
+                  "text": "• 規劃與排定優先順序",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5,
+                  "weight": "bold"
+                }
+              ]
             }
           ]
         }
