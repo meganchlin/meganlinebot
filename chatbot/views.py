@@ -56,6 +56,9 @@ def callback(request):
                 elif (event.message.text == 'project'):
                     FlexMessage = json.load(open(os.path.join(BASE_DIR, 'flex_msg/project.json'),'r',encoding='utf-8'))
                     line_bot_api.reply_message(event.reply_token, FlexSendMessage('profile',FlexMessage))
+                elif (event.message.text == 'about me'):
+                    FlexMessage = json.load(open(os.path.join(BASE_DIR, 'flex_msg/about_me.json'),'r',encoding='utf-8'))
+                    line_bot_api.reply_message(event.reply_token, FlexSendMessage('profile',FlexMessage))
                 else :
                     line_bot_api.reply_message(  # 回復傳入的訊息文字
                     event.reply_token,
