@@ -1,2 +1,2 @@
 #I'Megan
-![alt text](http://url/to/I'Megan_qrcode.png)
+![alt text](http://github.com/meganchlin/meganlinebot/blob/main/I'Megan_qrcode.png)
